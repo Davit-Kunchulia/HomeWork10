@@ -10,4 +10,9 @@
     .header_nav{display: none;}
     .header_button{display: none;}
     .header_icon{display: block;}
+
+    /* footer */
+    footer{padding: 32px 24px;
+        justify-content: center;
+    align-items: center;}
 }
