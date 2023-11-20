@@ -228,12 +228,10 @@ footer {
 }
 
 .footer_div {
-    /* display: flex;
+    display: flex;
     justify-content: space-between;
-    column-gap: 80px; */
-    width: 100%;
-    gap: 0;
-    text-align: center;
+    column-gap: 80px;
+    
 }
 
 .nav_div {
